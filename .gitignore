@@ -11,3 +11,6 @@ venv/
 *.egg-info/
 dist/
 build/
+
+app_frontend.py
+girish_judge_frontend.py
